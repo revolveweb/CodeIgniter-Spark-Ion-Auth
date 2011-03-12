@@ -1,22 +1,3 @@
-======================================
-Ion Auth
-
-Simple and Lightweight Auth System 
-based on Redux Auth 2  
-(but much better of course)
-
-by Ben Edmunds
-added awesomeness by Phil Sturgeon
-======================================
-
-Hey everybody,
-
-Redux Auth 2 had a lot of potential.  It's lightweight, simple, and clean, 
-but had a ton of bugs and was missing some key features.
-
-So I've refactored the code and added new methods and functions with the much 
-appreciated help of Phil Sturgeon.
-
 DOCUMENTATION:
 Documentation is located at http://benedmunds.com/ion_auth/
 
